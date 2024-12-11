@@ -21,8 +21,8 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	gotest.tools v2.2.0+incompatible
-	k8s.io/apimachinery v0.31.1
-	k8s.io/client-go v0.31.1
+	k8s.io/apimachinery v0.31.4
+	k8s.io/client-go v0.31.4
 	sigs.k8s.io/kubectl-validate v0.0.5-0.20240827210056-ce13d95db263
 	sigs.k8s.io/yaml v1.4.0
 )
@@ -129,7 +129,7 @@ require (
 	google.golang.org/grpc v1.67.0 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
-	k8s.io/api v0.31.1 // indirect
+	k8s.io/api v0.31.4 // indirect
 	k8s.io/apiextensions-apiserver v0.31.1 // indirect
 	k8s.io/apiserver v0.31.1 // indirect
 	k8s.io/component-base v0.31.1 // indirect
